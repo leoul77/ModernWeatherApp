@@ -1,0 +1,14 @@
+C:\Users\15712\Desktop\ModernWeatherApp\bin\Debug\net8.0-windows\ModernWeatherApp.exe
+C:\Users\15712\Desktop\ModernWeatherApp\bin\Debug\net8.0-windows\ModernWeatherApp.deps.json
+C:\Users\15712\Desktop\ModernWeatherApp\bin\Debug\net8.0-windows\ModernWeatherApp.runtimeconfig.json
+C:\Users\15712\Desktop\ModernWeatherApp\bin\Debug\net8.0-windows\ModernWeatherApp.dll
+C:\Users\15712\Desktop\ModernWeatherApp\bin\Debug\net8.0-windows\ModernWeatherApp.pdb
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.AssemblyInfoInputs.cache
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.AssemblyInfo.cs
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.dll
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\refint\ModernWeatherApp.dll
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.pdb
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ModernWeatherApp.genruntimeconfig.cache
+C:\Users\15712\Desktop\ModernWeatherApp\obj\Debug\net8.0-windows\ref\ModernWeatherApp.dll
